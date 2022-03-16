@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\ProgramData\RevitAPITraining\Revit_API_4_2.dll"</Assembly>
+		<AddInId>C810B1B3-44B1-4467-83A2-538051BA8CB7</AddInId>
+		<FullClassName>Revit_API_4_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPI 4-2 Экспорт данных (XLS(x))</Text>
+	</AddIn>
+</RevitAddIns>
